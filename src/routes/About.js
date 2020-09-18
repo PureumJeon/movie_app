@@ -4,7 +4,7 @@ import "./About.css";
 function About() {
   return (
     <div className="about__container">
-      <span>dksjdlkd dudghksdlkjd</span>
+      <span> This is Movie app using React js.</span>
     </div>
   );
 }
